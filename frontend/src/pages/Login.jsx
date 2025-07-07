@@ -28,8 +28,8 @@ export default function Login({ onLogin }) {
   };
 
   return (
-    <div className="h-screen flex items-center justify-center bg-gradient-to-br from-blue-500 to-indigo-700">
-      <div className="bg-white p-8 rounded-xl shadow-2xl w-96 animate-float">
+    <div className="h-screen flex items-center justify-center bg-gradient-to-br  from-lime-400 to-emerald-700">
+      <div className="bg-white p-8 rounded-xl  hover:-rotate-2 hover:scale-105 animate-float shadow-2xl w-96 animate-float">
         <h2 className="text-3xl font-bold mb-6 text-center text-indigo-700">
           Login to Your Account
         </h2>
