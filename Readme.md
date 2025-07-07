@@ -47,20 +47,20 @@ npm run dev
 Below are a series of screenshots from the application:
 
 ### Sign Up Page
-![Screenshot 1](img/image1.png)
+![Screenshot 1](./img/image1.png)
 
 ### Login Page
-![Screenshot 2](img/image2.png)
+![Screenshot 2](./img/image2.png)
 
 ### Dashboard 
-![Screenshot 3](img/image3.png)
+![Screenshot 3](./img/image3.png)
 
-![Screenshot 4](img/image4.png)
+![Screenshot 4](./img/image4.png)
 
 
-![Screenshot 5](img/image5.png)
+![Screenshot 5](./img/image5.png)
 
-![Screenshot 6](img/image6.png)
+![Screenshot 6](./img/image6.png)
 
 ## ✅ What Sets This Apart
 
