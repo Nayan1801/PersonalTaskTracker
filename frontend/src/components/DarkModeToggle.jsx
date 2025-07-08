@@ -1,5 +1,6 @@
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import gsap from "gsap";
+i
 
 const DarkModeToggle = () => {
   const [dark, setDark] = useState(
